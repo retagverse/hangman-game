@@ -39,3 +39,6 @@ The game includes a scoring system to make it more interactive and fun.
 
 ##  How to Run
 1. Compile the code:
+## Screenshot
+
+![hangman game](screenshot.png)
